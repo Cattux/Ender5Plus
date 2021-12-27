@@ -16,6 +16,8 @@ The screen is still the stock screen. A custom cable was created so that it coul
 | 5       | NC      |                    | 
 | 6       | 4       | GND                | 
 
+Photos of cable are available here: https://imgur.com/a/O3nix8B
+
 ## Extruder
 Stock
 
