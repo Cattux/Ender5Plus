@@ -22,7 +22,7 @@ Stock
 ## Bed Heater
 Stock
 
-## Build Plate / Y Carriage
+## Build Plate
 Stock
 
 ## BLTouch
@@ -32,7 +32,10 @@ Stock
 Stock
 
 ## Hotend Cooler
-Stock
+Stock cooler, but klipper has been configured so that the fan only turns on when the temperature is set to 50°C or above. When the hot end turns off, the fan turns off once the temperature drops back below 50°C.
+
+## Enclosure Fan
+The stock enclosure fan was always on and very loud, so it was replaced with a 5V Noctua fan. It is connected to the SKR via the Neo Pixel port. It turns on and off automatically whenever the extruder or bed are turned on.
 
 ## Firmware
 Klipper is loaded onto this printer, see [printer.cfg](printer.cfg)
