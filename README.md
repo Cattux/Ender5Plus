@@ -2,7 +2,7 @@
 This repo contains the modifications and current configuration files for my Creality Ender 5 Plus.
 
 ## Main Board
-The main board in this printer is an BTT SKR-Mini E3 V2.0.
+The main board in this printer is an BTT Octopus Pro (F446).
 
 ## Screen
 The screen is still the stock screen. A custom cable was created so that it could work with the new main board via the TFT pins, see pinout below:
